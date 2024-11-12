@@ -1,0 +1,48 @@
+# Logs
+*.log
+logs
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.class
+*.dll
+*.exe
+*.pyc
+*.pyo
+*.pid
+*.log
+*.cache
+*.xml
+*.py
+__pycache__
+
+# Build files
+[Bb]in/
+[Oo]bj/
+*.exe
+*.dll
+*.pdb
+*.cache
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+.build/
+
+# Visual Studio Code
+.vscode/
+
+# Visual Studio
+.vs/
+.vs2019/
+.vs2017/
+
+# Database
+*.db
+*.sqlite
